@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 晴天背景 -->
+    <item android:drawable="@drawable/weather_background_sunny" android:state_selected="true" />
+
+    <!-- 多云背景 -->
+    <item android:drawable="@drawable/weather_background_cloudy" android:state_checked="true" />
+
+    <!-- 雨天背景 -->
+    <item android:drawable="@drawable/weather_background_rainy" android:state_pressed="true" />
+
+    <!-- 夜间背景 -->
+    <item android:drawable="@drawable/weather_background_night" />
+</selector> 

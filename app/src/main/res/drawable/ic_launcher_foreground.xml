@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+
+    <group android:scaleX="0.6" android:scaleY="0.6" android:translateX="21.6" android:translateY="21.6">
+
+        <!-- 太阳 -->
+        <path android:fillColor="#FFFFFF" android:pathData="M54,28C40.19,28 29,39.19 29,53C29,66.81 40.19,78 54,78C67.81,78 79,66.81 79,53C79,39.19 67.81,28 54,28ZM54,72C43.51,72 35,63.49 35,53C35,42.51 43.51,34 54,34C64.49,34 73,42.51 73,53C73,63.49 64.49,72 54,72Z"/>
+
+        <!-- 光芒 -->
+        <path android:fillColor="#FFFFFF" android:pathData="M54,24V14M54,92V82M82,53H92M16,53H26M74.95,32.05L82.02,24.98M25.98,81.02L33.05,73.95M74.95,73.95L82.02,81.02M25.98,24.98L33.05,32.05"/>
+
+        <!-- 云朵 -->
+        <path android:fillColor="#FFFFFF" android:pathData="M65,60.5C65,66.85 59.85,72 53.5,72C47.15,72 42,66.85 42,60.5C42,54.15 47.15,49 53.5,49C59.85,49 65,54.15 65,60.5Z"/>
+    </group>
+</vector>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">简悦天气</string>
+
+    <!-- 通用文本 -->
+    <string name="loading">加载中…</string>
+    <string name="error">出错了</string>
+    <string name="retry">重试</string>
+    <string name="refresh">刷新</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+
+    <!-- 天气相关 -->
+    <string name="weather_realtime">实时天气</string>
+    <string name="weather_hourly">24小时预报</string>
+    <string name="weather_daily">7天预报</string>
+    <string name="weather_air">空气质量</string>
+
+    <!-- 城市管理 -->
+    <string name="city_manage">城市管理</string>
+    <string name="city_search">搜索城市</string>
+    <string name="city_search_hint">输入城市名称</string>
+    <string name="city_no_result">未找到相关城市</string>
+
+    <!-- 设置 -->
+    <string name="settings">设置</string>
+    <string name="settings_theme">主题设置</string>
+    <string name="settings_notification">通知设置</string>
+    <string name="settings_about">关于</string>
+</resources>

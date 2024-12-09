@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 基础颜色 -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 主题颜色 -->
+    <color name="primary">#FF2196F3</color>
+    <color name="primary_dark">#FF1976D2</color>
+    <color name="primary_light">#FFBBDEFB</color>
+    <color name="accent">#FF03A9F4</color>
+
+    <!-- 天气背景渐变色 -->
+    <color name="weather_sunny_start">#FF4B95E8</color>
+    <color name="weather_sunny_end">#FF63CCF6</color>
+    <color name="weather_cloudy_start">#FF78909C</color>
+    <color name="weather_cloudy_end">#FF90A4AE</color>
+    <color name="weather_rainy_start">#FF546E7A</color>
+    <color name="weather_rainy_end">#FF78909C</color>
+    <color name="weather_night_start">#FF1A237E</color>
+    <color name="weather_night_end">#FF303F9F</color>
+
+    <!-- 卡片背景色 -->
+    <color name="card_background">#33FFFFFF</color>
+    <color name="card_background_light">#FFFFFFFF</color>
+    <color name="card_background_dark">#FF2C2C2C</color>
+
+    <!-- 文字颜色 -->
+    <color name="text_primary_light">#DE000000</color>
+    <color name="text_secondary_light">#99000000</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+
+    <!-- 分割线颜色 -->
+    <color name="divider_light">#1F000000</color>
+    <color name="divider_dark">#1FFFFFFF</color>
+</resources>
